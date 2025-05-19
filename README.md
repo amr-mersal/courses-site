@@ -1,14 +1,14 @@
-# 📚 Courses Site
+#  Courses Site
 
 A responsive and interactive website for browsing and exploring online courses. Built using **HTML**, **CSS**, and **JavaScript** 
 
-## 🌐 Live Demo
+##  Live Demo
 
 https://amr-mersal.github.io/courses-site/
 
 ---
 
-## 🚀 Features
+##  Features
 
 - Responsive layout (mobile-friendly)
 - Course listings with images, titles, and descriptions
@@ -17,7 +17,7 @@ https://amr-mersal.github.io/courses-site/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 - **HTML5** – for semantic structure
 - **CSS3** – for styling and layout (Flexbox/Grid)
